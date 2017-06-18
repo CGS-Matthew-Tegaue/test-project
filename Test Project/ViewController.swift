@@ -19,6 +19,13 @@ class ViewController: UIViewController {
         print("FEATURE Y")
         print("Bug fixed")
 
+        
+    }
+    
+    func superAwesomeFunction(){
+        
+        print("this fuction is pure awesome in a can")
+        print(")
     }
 
     override func didReceiveMemoryWarning() {
